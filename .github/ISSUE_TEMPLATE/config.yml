@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: OMA Members site
-    url: https:/member.openmobilealliance.org
+    url: https://member.openmobilealliance.org
     about: The main site for OMA services.
   - name: Standards Hub
     url: https://standardshub.io
