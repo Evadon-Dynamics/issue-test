@@ -1,4 +1,4 @@
-name: General Issue
+name: General Issue from YAML
 description: File a new issue
 title: "[GENERAL]: "
 labels: ["general", "triage"]
